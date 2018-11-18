@@ -79,5 +79,5 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/mr-alpha-zhu/mr-alpha-zhu.github.io
+  repo: https://github.com/mr-alpha-zhu/mr-alpha-zhu.github.io.git
   branch: master
